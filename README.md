@@ -11,7 +11,8 @@
 ## Projets
 
 - [hastor-site](https://github.com/diegogomezalbea-cell/hastor-site) : site de l'agence Hastor
-- [sites-vitrines](https://github.com/diegogomezalbea-cell/sites-vitrines) : démo newsletter et site de L'Atelier du Métal
+- [atelier-du-metal](https://github.com/diegogomezalbea-cell/atelier-du-metal) : site vitrine de L'Atelier du Métal by Gomez
+- [demo-newsletter](https://github.com/diegogomezalbea-cell/demo-newsletter) : démo d'une newsletter pour petites entreprises
 
 ## Stack
 
