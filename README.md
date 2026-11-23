@@ -10,7 +10,8 @@
 
 ## Projets
 
-- [n8n-sites-vitrines](https://github.com/diegogomezalbea-cell/n8n-sites-vitrines) : sites vitrines avec chatbot, réservations et emails automatiques
+- [hastor-site](https://github.com/diegogomezalbea-cell/hastor-site) : site de l'agence Hastor
+- [sites-vitrines](https://github.com/diegogomezalbea-cell/sites-vitrines) : démo newsletter et site de L'Atelier du Métal
 
 ## Stack
 
